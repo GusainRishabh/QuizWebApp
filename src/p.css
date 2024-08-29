@@ -1,0 +1,24 @@
+.but{
+    height: 70px;
+    border-radius: 70px;
+    width:70px;
+    margin: 30px;
+    color:white;
+    border:2px solid black;
+    background-color: red;
+}
+
+button:hover{
+    background-color:red;
+}
+
+.c{
+    color:white;
+    background-color: blue;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.c:hover{
+    background-color:red;
+}

@@ -1,0 +1,345 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.pricing-section {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  padding: 20px;
+  gap: 20px;
+  flex-wrap: wrap; /* Allow wrapping for smaller screens */
+}
+
+.pricing-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.pricing-card:hover {
+  transform: translateY(-10px);
+}
+
+.popular-badge {
+  background-color: gold;
+  color: black;
+  padding: 5px;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.price-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.original-price {
+  text-decoration: line-through;
+  color: #888;
+}
+
+.save-percentage {
+  color: green;
+  font-weight: bold;
+}
+
+.price {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin: 10px 0;
+}
+
+.renew-price {
+  margin: 10px 0;
+  color: #888;
+}
+
+.features {
+  list-style-type: none;
+  padding: 0;
+}
+
+.features li {
+  margin: 5px 0;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.t1{
+  position: relative;
+  left: -40px;
+  top: 6px;
+}
+img{
+  height: 300px;
+  width: 100%;
+  position: relative;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
+
+.container {
+  display: flex;
+  height: 45px;
+  width: 100%;
+}
+
+.search-bar {
+  display: flex;
+  height: 45px;
+  width: 100%;
+}
+.pre{
+  position: relative;
+  margin-top: -366px;
+  margin-left: 102px;
+}
+
+.search-input {
+  position: relative;
+  width: 50%;
+  height: auto;
+  left: 342px;
+}
+
+.search-icon {
+  position: relative;
+  left: 270px;
+  top: 7px;
+}
+
+.search-button {
+  position: relative;
+  left: 330px;
+  height: 45px;
+  top: -11px;
+}
+
+.save-percentage {
+  position: relative;
+  top: 20px;
+}
+
+.image-container {
+  position: relative;
+  display: flex;
+  margin-left: 260px;
+  grid-area: 40px;
+  height: 600px;
+  width: 70%;
+  border: 2px solid black;
+}
+.image-container1 {
+  position: relative;
+  display: flex;
+  margin-left: 200px;
+  grid-area: 40px;
+  height: 600px;
+  width: 70%;
+  border: 2px solid black;
+}
+
+.image {
+  height: 600px;
+  width: 100%;
+  border-radius: 40px;
+}
+
+.hosting-offer {
+  position: relative;
+  background-color: #e0f7f9;
+  padding: 20px;
+  height: 470px;
+  left: -30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin: auto;
+}
+
+pre{
+  position: relative;
+    /* margin: 30px; */
+    color: white;
+    margin-left: 90px;
+    margin-top: -450px;
+}
+
+.hosting-offer h4 {
+  margin: 0;
+  font-size: 14px;
+  color: #333;
+}
+
+.hosting-offer h2 {
+  margin: 10px 0;
+  font-size: 24px;
+  color: #333;
+}
+
+.hosting-offer ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.hosting-offer ul li {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #333;
+}
+
+.hosting-offer button {
+  background-color: #000;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.hosting-offer button:hover {
+  background-color: #333;
+}
+
+.image-placeholder {
+  height: 300px;
+  border: 2px solid black;
+}
+
+.domain-offer {
+  display: flex;
+  background-color: #013220;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 100%;
+  width: 100%;
+}
+
+.content {
+  color: white;
+  flex: 1;
+}
+
+.content h4 {
+  margin: 0;
+  font-size: 14px;
+}
+
+.content h2 {
+  margin: 10px 0;
+  font-size: 32px;
+}
+
+.content p {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.content .small-text {
+  font-size: 12px;
+}
+
+.content button {
+  background-color: white;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.content button:hover {
+  background-color: #ddd;
+}
+
+.image {
+
+display: flex;
+ height: 600px;
+}
+
+.image img {
+  border-radius: 10px;
+  max-width: 100%;
+  height: 600px;
+  padding: 70px;
+  border-radius: 0 10px 10px 0;
+}
+
+/* Media queries for responsiveness */
+
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 768px) {
+  .pricing-card {
+    width: 100%; /* Full width on smaller screens */
+  }
+
+  .price {
+    font-size: 20px; /* Smaller font size on tablets */
+  }
+
+  button {
+    padding: 8px 16px; /* Smaller padding on tablets */
+  }
+}
+
+/* Small devices (phones, 576px and up) */
+@media (max-width: 576px) {
+  .App {
+    padding: 10px;
+  }
+
+  .pricing-section {
+    padding: 10px;
+    gap: 10px;
+  }
+
+  .pricing-card {
+    width: 100%; /* Full width on smaller screens */
+    padding: 15px; /* Smaller padding on phones */
+  }
+
+  .price {
+    font-size: 18px; /* Smaller font size on phones */
+  }
+
+  button {
+    padding: 6px 12px; /* Smaller padding on phones */
+  }
+}

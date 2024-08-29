@@ -1,0 +1,53 @@
+.body {
+	font-family: Arial, sans-serif;
+	width: 70%;
+	margin-left: 130px;
+	margin-top: 20px;
+}
+/* style.css */
+.btn {
+	width: 100%;
+	color: white;
+	background-color: #1d4ed8; /* bg-primary-600 */
+	font-weight: 500; /* font-medium */
+	border-radius: 0.5rem; /* rounded-lg */
+	font-size: 0.875rem; /* text-sm */
+	padding: 0.625rem 1.25rem; /* px-5 py-2.5 */
+	text-align: center;
+	transition: background-color 0.3s, box-shadow 0.3s;
+  }
+  
+  .btn:hover {
+	background-color: #1e40af; /* hover:bg-primary-700 */
+  }
+  
+  .btn:focus {
+	outline: none;
+	box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.5); /* focus:ring-4 focus:ring-primary-300 */
+  }
+  
+  .text {
+	font-size: 0.875rem; /* text-sm */
+	font-weight: 300; /* font-light */
+	color: #6b7280; /* text-gray-500 */
+  }
+  
+  /* Dark mode styles */
+  @media (prefers-color-scheme: dark) {
+	.btn {
+	  background-color: #1d4ed8; /* dark:bg-primary-600 */
+	}
+  
+	.btn:hover {
+	  background-color: #1e40af; /* dark:hover:bg-primary-700 */
+	}
+  
+	.btn:focus {
+	  box-shadow: 0 0 0 4px rgba(30, 58, 138, 0.5); /* dark:focus:ring-primary-800 */
+	}
+  
+	.text {
+	  color: #9ca3af; /* dark:text-gray-400 */
+	}
+  }
+  

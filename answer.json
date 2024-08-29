@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "section": "A",
+    "serialNumber": 1,
+    "selectedOption": "Blue Whale"
+  },
+  {
+    "id": 2,
+    "section": "A",
+    "serialNumber": 1,
+    "selectedOption": "Blue Whale"
+  },
+  {
+    "id": 3,
+    "section": "B",
+    "serialNumber": 7,
+    "selectedOption": "Hydrogen"
+  },
+  {
+    "id": 4,
+    "section": "A",
+    "serialNumber": 1,
+    "selectedOption": "Blue Whale"
+  },
+  {
+    "id": 5,
+    "section": "A",
+    "serialNumber": 6,
+    "selectedOption": "Nitrogen"
+  },
+  {
+    "id": 6,
+    "section": "B",
+    "serialNumber": 10,
+    "selectedOption": "Albert Einstein"
+  },
+  {
+    "id": 7,
+    "section": "B",
+    "serialNumber": 7,
+    "selectedOption": "Hydrogen"
+  },
+  {
+    "id": 8,
+    "section": "A",
+    "serialNumber": 1,
+    "selectedOption": "Blue Whale"
+  },
+  {
+    "id": 9,
+    "section": "A",
+    "serialNumber": 1,
+    "selectedOption": "Blue Whale"
+  },
+  {
+    "id": 10,
+    "section": "A",
+    "serialNumber": 2,
+    "selectedOption": "100°C"
+  },
+  {
+    "id": 11,
+    "section": "B",
+    "serialNumber": 10,
+    "selectedOption": "Albert Einstein"
+  },
+  {
+    "id": 12,
+    "section": "A",
+    "serialNumber": 3,
+    "selectedOption": "Diamond"
+  },
+  {
+    "id": 13,
+    "section": "A",
+    "serialNumber": 4,
+    "selectedOption": "Earth"
+  },
+  {
+    "id": 14,
+    "section": "A",
+    "serialNumber": 1,
+    "selectedOption": "Blue Whale"
+  },
+  {
+    "id": 15,
+    "section": "A",
+    "serialNumber": 1,
+    "selectedOption": "Blue Whale"
+  },
+  {
+    "id": 16,
+    "section": "A",
+    "serialNumber": 2,
+    "selectedOption": "90°C"
+  },
+  {
+    "id": 17,
+    "section": "A",
+    "serialNumber": 3,
+    "selectedOption": "Diamond"
+  },
+  {
+    "id": 18,
+    "section": "A",
+    "serialNumber": 4,
+    "selectedOption": "Mars"
+  },
+  {
+    "id": 19,
+    "section": "A",
+    "serialNumber": 6,
+    "selectedOption": "Carbon Dioxide"
+  },
+  {
+    "id": 20,
+    "section": "A",
+    "serialNumber": 2,
+    "selectedOption": "100°C"
+  },
+  {
+    "id": 21,
+    "section": "A",
+    "serialNumber": 1,
+    "selectedOption": "Blue Whale"
+  },
+  {
+    "id": 22,
+    "section": "A",
+    "serialNumber": 1,
+    "selectedOption": "Blue Whale"
+  },
+  {
+    "id": 23,
+    "section": "B",
+    "serialNumber": 7,
+    "selectedOption": "Hydrogen"
+  },
+  {
+    "id": 24,
+    "section": "A",
+    "serialNumber": 1,
+    "selectedOption": "Blue Whale"
+  },
+  {
+    "id": 25,
+    "section": "A",
+    "serialNumber": 1,
+    "selectedOption": "Blue Whale"
+  },
+  {
+    "id": 26,
+    "section": "B",
+    "serialNumber": 7,
+    "selectedOption": "Hydrogen"
+  },
+  {
+    "id": 27,
+    "section": "A",
+    "serialNumber": 1,
+    "selectedOption": "Blue Whale"
+  },
+  {
+    "id": 28,
+    "section": "A",
+    "serialNumber": 2,
+    "selectedOption": "90°C"
+  },
+  {
+    "id": 29,
+    "section": "B",
+    "serialNumber": 7,
+    "selectedOption": "Hydrogen"
+  },
+  {
+    "id": 30,
+    "section": "A",
+    "serialNumber": 1,
+    "selectedOption": "Blue Whale"
+  },
+  {
+    "id": 31,
+    "section": "A",
+    "serialNumber": 1,
+    "selectedOption": "Blue Whale"
+  },
+  {
+    "id": 32,
+    "section": "A",
+    "serialNumber": 1,
+    "selectedOption": "Blue Whale"
+  }
+]

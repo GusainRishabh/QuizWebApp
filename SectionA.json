@@ -1,0 +1,38 @@
+[
+  {
+    "Paper_Code": "Paper A",
+    "Serial_Number": "101",
+    "Section": "A",
+    "Add_Question": "5+5",
+    "Option_1": "3",
+    "Option_2": "4",
+    "Option_3": "5",
+    "Option_4": "10",
+    "Right_Answer": "10",
+    "Company_Id": "121"
+  },
+  {
+    "Paper_Code": "Paper A",
+    "Serial_Number": "103",
+    "Section": "A",
+    "Add_Question": "2*5",
+    "Option_1": "3",
+    "Option_2": "4",
+    "Option_3": "5",
+    "Option_4": "10",
+    "Right_Answer": "10",
+    "Company_Id": "121"
+  },
+  {
+    "Paper_Code": "Paper B",
+    "Serial_Number": "103",
+    "Section": "A",
+    "Add_Question": "54+1",
+    "Option_1": "31",
+    "Option_2": "55",
+    "Option_3": "56",
+    "Option_4": "65",
+    "Right_Answer": "55",
+    "Company_Id": "1234"
+  }
+]

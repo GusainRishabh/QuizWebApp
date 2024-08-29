@@ -1,0 +1,19 @@
+{
+  "academy": [
+    {
+      "Academy_Name": "Samsung Tech",
+      "Phone_Number": "09528746414",
+      "Plan": "499",
+      "Company_Website": "Paper A",
+      "Company_Id": "131131",
+      "Email_Address": "rishabhgusain51@gmail.com",
+      "Password": "",
+      "otp": "553986",
+      "otp_created_at": "2024-08-26T08:37:31.000Z",
+      "subscription_start": "2024-08-26T08:37:31.000Z",
+      "subscription_end": "2024-09-25T08:37:31.000Z",
+      "subscription_status": "active"
+    }
+  ],
+  "paypal_credentials": []
+}
